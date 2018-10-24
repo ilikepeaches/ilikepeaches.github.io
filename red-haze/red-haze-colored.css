@@ -316,52 +316,52 @@ ul.thin li {
     background: #f3f3f3 !important;
 }
 #menu li:nth-child(2) a {
-    background: #FF9B05;
-    width: 100px;
-    border: solid rgba(0, 0, 0, 0.1);
-    border-width: 1px 0 1px 1px;
+    background: #FC464D;
+    width: 88px;
+    border: solid rgba(0, 0, 0, 0.08);
+    border-width: 1px 0;
 }
 #menu li:nth-child(3) a {
-    background: #FE8E0F;
-    width: 100px;
-    border: solid rgba(0, 0, 0, 0.1);
-    border-width: 1px 0;
-}
-#menu li:nth-child(4) a {
-    background: #FE8219;
-    width: 100px;
-    border: solid rgba(0, 0, 0, 0.1);
-    border-width: 1px 0;
-}
-#menu li:nth-child(5) a {
-    background: #FE7624;
-    width: 92px;
-    border: solid rgba(0, 0, 0, 0.1);
-    border-width: 1px 0;
-}
-#menu li:nth-child(6) a {
-    background: #FD6A2E;
-    width: 66px;
-    border: solid rgba(0, 0, 0, 0.1);
-    border-width: 1px 0;
-}
-#menu li:nth-child(7) a {
-    background: #FD5E38;
-    width: 88px;
-    border: solid rgba(0, 0, 0, 0.1);
-    border-width: 1px 0;
-}
-#menu li:nth-child(8) a {
     background: #FD5243;
     width: 88px;
     border: solid rgba(0, 0, 0, 0.08);
     border-width: 1px 0;
 }
-#menu li:nth-child(9) a {
-    background: #FC464D;
+#menu li:nth-child(4) a {
+    background: #FD5E38;
     width: 88px;
-    border: solid rgba(0, 0, 0, 0.08);
+    border: solid rgba(0, 0, 0, 0.1);
     border-width: 1px 0;
+}
+#menu li:nth-child(5) a {
+    background: #FD6A2E;
+    width: 66px;
+    border: solid rgba(0, 0, 0, 0.1);
+    border-width: 1px 0;
+}
+#menu li:nth-child(6) a {
+    background: #FE7624;
+    width: 92px;
+    border: solid rgba(0, 0, 0, 0.1);
+    border-width: 1px 0;
+}
+#menu li:nth-child(7) a {
+    background: #FE8219;
+    width: 100px;
+    border: solid rgba(0, 0, 0, 0.1);
+    border-width: 1px 0;
+}
+#menu li:nth-child(8) a {
+    background: #FE8E0F;
+    width: 100px;
+    border: solid rgba(0, 0, 0, 0.1);
+    border-width: 1px 0;
+}
+#menu li:nth-child(9) a {
+    background: #FF9B05;
+    width: 100px;
+    border: solid rgba(0, 0, 0, 0.1);
+    border-width: 1px 0 1px 1px;
 }
 #menu ul {
     margin: 0;
