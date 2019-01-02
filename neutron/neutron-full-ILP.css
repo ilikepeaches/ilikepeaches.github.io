@@ -58,7 +58,7 @@ a:hover {
 
 body {
 	color: inherit;
-	background: url("http://i.imgur.com/vHpSq77.jpg") top left repeat-x,#c2c2c2;
+	background: url("https://ilikepeaches.github.io/neutron/img/body-background.jpg") top left repeat-x,#c2c2c2;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 0.7em;
 	margin-top: 8px;
@@ -97,7 +97,7 @@ h1, h2, h3, h4 {
 	width: 120px;
 	height: 92px;
 	background-position: top right;
-	background-image: url('http://i.imgur.com/sOHyb23.png');
+	background-image: url('https://ilikepeaches.github.io/neutron/img/logo-background-image.png');
 }
 
 #logo a {
@@ -437,7 +437,7 @@ input {
 	border: none;
 	color: #858585;
 	box-shadow: none;
-	background: url("http://i.imgur.com/QjMNigW.png") top left no-repeat;
+	background: url("https://ilikepeaches.github.io/neutron/img/seach-bars-input-background.png") top left no-repeat;
 	margin: 0;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -445,7 +445,7 @@ input {
 }
 
 #searchbars input:focus {
-	background: url("http://i.imgur.com/QjMNigW.png") 0 -23px no-repeat;
+	background: url("https://ilikepeaches.github.io/neutron/img/seach-bars-input-focus-background.png") 0 -23px no-repeat;
 	border: 0;
 	color: #575757;
 
@@ -835,7 +835,7 @@ body#requests tr.rowb, #inbox tr.rowb {
 }
 
 #footer {
-	background: url("http://i.imgur.com/dToHT4f.png") top left repeat-x,#575757;
+	background: url("https://ilikepeaches.github.io/neutron/img/footer-background.png") top left repeat-x,#575757;
 	width: auto;
 	margin-left: -18px;
 	margin-right: -18px;
