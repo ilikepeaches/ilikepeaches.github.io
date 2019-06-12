@@ -527,6 +527,11 @@ table.box2 {
   margin-left: 8px;
 }
  */
+ 
+.last_read {
+  content: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-green.png) no-repeat center center; margin-left: 8px;
+  display: inline-block;
+}
 
 /* 
 .last_read {
@@ -535,12 +540,14 @@ table.box2 {
 }
  */
  
+/* 
 .last_read {
 	width: 30px;
 	height: 18px;
 	background: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-green.png) no-repeat center center; margin-left: 8px;
 	background-size: cover;
 }
+ */
 
 /* 
 .last_read :before {
@@ -549,6 +556,12 @@ table.box2 {
 }
  */
 
+.last_read :before {
+  content: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-white.png) no-repeat center center; margin-left: 8px;
+  display: inline-block;
+}
+
+
 /* 
 .last_read :before {
   margin-left: 8px;
@@ -556,12 +569,14 @@ table.box2 {
 }
  */
 
+/* 
 .last_read :before {
 	width: 30px;
 	height: 18px;
 	background: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-white.png) no-repeat center center; margin-left: 8px;
 	background-size: cover;
 }
+ */
 
 
 
