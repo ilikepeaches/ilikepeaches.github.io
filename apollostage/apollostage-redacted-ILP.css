@@ -598,7 +598,7 @@ table.box2 {
 }
 
 #logo>a {
-{display:block;margin-top:2px;height:39px;background:url(https://cdn.rawgit.com/redwhat/styles/d7dedfa7/redacted.ch.svg) center no-repeat;background-size:235px}
+{display:block;margin-top:2px;height:39px;background-size:235px}
 
 #menu>ul {
   display: flex;
