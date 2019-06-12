@@ -1717,7 +1717,7 @@ blockquote {
 
   #menu>ul>#nav_staff>a {
     line-height: 1.6;
-    padding: 0;
+    padding-top: 13px;
   }
 
   #menu>ul>#nav_staff>a:hover {
