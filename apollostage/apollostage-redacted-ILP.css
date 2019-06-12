@@ -522,77 +522,14 @@ table.box2 {
   width: 24px!important;
 }
 
-/* 
 .last_read {
   margin-left: 8px;
 }
- */
- 
-/* 
-.last_read {
-  margin-left: 8px
-  content: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-green.png);
+
+.last_read :before {
+  content: '➟';
   display: inline-block;
 }
- */
-
-/* 
-.last_read {
-  margin-left: 8px;
-  background: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-white.png) center no-repeat;
-}
- */
- 
-.last_read {
-/* 
-	width: 30px;
-	height: 18px;
- */
-	margin-left: 8px
-	content: ' ';
-	background: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-green.png);
-	background-repeat: no-repeat;
-	background-size: 30px, 18px;
-/* 	background-size: contain, */
-}
-
-
-/* 
-.last_read :before {
-  content: 'âžŸ';
-  display: inline-block;
-}
- */
-
-/* 
-.last_read :before {
-  margin-left: 8px
-  content: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-white.png);
-  display: inline-block;
-}
- */
-
-
-/* 
-.last_read :before {
-  margin-left: 8px;
-  background: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-green.png) center no-repeat;
-}
- */
-
-.last_read :before {
-/* 
-	width: 30px;
-	height: 18px;
- */
-	margin-left: 8px
-	content: ' ';
-	background: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-white.png);
-	background-repeat: no-repeat;
-	background-size: 30px, 18px;
-/* 	background-size: contain, */
-}
-
 
 #userinfo_minor:before,
 .linkbox br {
