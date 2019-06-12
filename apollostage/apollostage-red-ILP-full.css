@@ -586,7 +586,7 @@ table.box2 {
   margin: 0;
 }
 
-#logo{box-sizing:content-box;width:260px;height:39px;padding:14px 8px 16px}
+#logo{box-sizing:content-box;width:234px;height:39px;padding:24px 8px 26px}
 
 /* 
 #logo a,
@@ -595,7 +595,7 @@ table.box2 {
 }
  */
 
-#logo>a{display:block;margin-top:2px;height:64px;background:url(https://ilikepeaches.github.io/apollostage/img/red-banner-ILP.png) center no-repeat;background-size:260px}
+#logo>a{display:block;margin-top:2px;height:64px;background:url(https://ilikepeaches.github.io/apollostage/img/red-banner-ILP.png) center no-repeat;background-size:234px}
 
 
 #menu>ul {
