@@ -1696,12 +1696,14 @@ blockquote {
     margin: 4px;
   }
 
+/* 
   #nav_donate .tooltip:after {
     color: red;
     content: '❤️';
     font-size: 75%;
     vertical-align: top;
   }
+ */
 
   #nav_staff {
     font-weight: 400;
