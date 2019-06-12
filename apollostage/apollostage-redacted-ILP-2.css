@@ -527,7 +527,7 @@ table.box2 {
 }
 
 .last_read :before {
-  content: '&#x279F;';
+  content: '➟';
   display: inline-block;
 }
 
