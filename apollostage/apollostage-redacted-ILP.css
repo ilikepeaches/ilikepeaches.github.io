@@ -586,10 +586,10 @@ table.box2 {
 }
 
 #logo {
-	box-sizing:content-box;
-	width:235px;
-	height:39px;
-	padding:24px 8px 16px
+  box-sizing: content-box;
+  height: 42px;
+  padding: 24px 8px 16px;
+  width: 200px;
 }
 
 #logo a,
@@ -598,7 +598,12 @@ table.box2 {
 }
 
 #logo>a {
-{display:block;margin-top:2px;height:39px;background-size:235px}
+  background-size: 200px;
+  display: block;
+  height: 100%;
+  margin-top: 0;
+}
+
 
 #menu>ul {
   display: flex;
