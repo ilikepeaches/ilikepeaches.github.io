@@ -544,11 +544,15 @@ table.box2 {
  */
  
 .last_read {
+/* 
 	width: 30px;
 	height: 18px;
+ */
 	content: ' ';
 	background: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-green.png) no-repeat center center; margin-left: 8px;
-	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: 30px, 18px;
+/* 	background-size: contain, */
 }
 
 
@@ -576,15 +580,16 @@ table.box2 {
  */
 
 .last_read :before {
+/* 
 	width: 30px;
 	height: 18px;
+ */
 	content: ' ';
 	background: url(https://ilikepeaches.github.io/apollostage/img/apollostage-right-arrow-white.png) no-repeat center center; margin-left: 8px;
-	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: 30px, 18px;
+/* 	background-size: contain, */
 }
-
-
-
 
 
 #userinfo_minor:before,
