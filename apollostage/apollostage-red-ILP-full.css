@@ -586,7 +586,7 @@ table.box2 {
   margin: 0;
 }
 
-#logo{box-sizing:content-box;width:235px;height:39px;padding:24px 8px 16px}
+#logo{box-sizing:content-box;width:175px;height:39px;padding:24px 8px 16px}
 
 /* 
 #logo a,
@@ -595,7 +595,7 @@ table.box2 {
 }
  */
 
-#logo>a{display:block;margin-top:2px;height:39px;background:url(https://ilikepeaches.github.io/apollostage/img/redacted.ch.svg) center no-repeat;background-size:235px}
+#logo>a{display:block;margin-top:2px;height:39px;background:url(https://ilikepeaches.github.io/apollostage/img/red-logo-apollostage-ILP.png) center no-repeat;background-size:175px}
 
 
 #menu>ul {
