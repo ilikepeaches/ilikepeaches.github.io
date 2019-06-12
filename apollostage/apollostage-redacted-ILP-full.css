@@ -1715,10 +1715,12 @@ blockquote {
     top: 29px;
   }
 
+/* 
   #menu>ul>#nav_staff>a {
     line-height: 1;
     padding: 0;
   }
+ */
 
   #menu>ul>#nav_staff>a:hover {
     background-color: transparent;
