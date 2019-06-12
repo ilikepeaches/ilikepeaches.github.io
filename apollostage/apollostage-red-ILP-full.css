@@ -586,7 +586,7 @@ table.box2 {
   margin: 0;
 }
 
-#logo{box-sizing:content-box;width:260px;height:39px;padding:24px 8px 16px}
+#logo{box-sizing:content-box;width:260px;height:39px;padding:14px 8px 16px}
 
 /* 
 #logo a,
