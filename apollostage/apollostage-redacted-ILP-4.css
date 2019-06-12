@@ -524,6 +524,7 @@ table.box2 {
 
 .last_read {
   margin-left: 8px;
+  font-size: 1.5em;
 }
 
 .last_read :before {
