@@ -585,24 +585,16 @@ table.box2 {
   margin: 0;
 }
 
-#logo {
-  box-sizing: content-box;
-  height: 42px;
-  padding: 24px 8px 16px;
-  width: 200px;
-}
+#logo{box-sizing:content-box;width:235px;height:39px;padding:24px 8px 16px}
 
+/* 
 #logo a,
 #extra5 {
   background: url(https://ilikepeaches.github.io/apollostage/img/redacted.ch.svg) right no-repeat;
 }
+ */
 
-#logo>a {
-  background-size: 200px;
-  display: block;
-  height: 100%;
-  margin-top: 0;
-}
+#logo>a{display:block;margin-top:2px;height:39px;background:url(https://ilikepeaches.github.io/apollostage/img/redacted.ch.svg) center no-repeat;background-size:235px}
 
 
 #menu>ul {
