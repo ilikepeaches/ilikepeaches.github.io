@@ -588,7 +588,7 @@ table.box2 {
 #logo {
   box-sizing: content-box;
   height: 39px;
-  padding: 24px 8px 16px;
+/*   padding: 24px 8px 16px; */
   width: 235px;
 }
 
