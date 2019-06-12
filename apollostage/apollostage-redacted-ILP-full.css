@@ -1712,15 +1712,13 @@ blockquote {
     font-size: 13px;
     position: absolute;
     right: 8px;
-/*     top: 29px; */
+    top: 29px;
   }
 
-/* 
   #menu>ul>#nav_staff>a {
-    line-height: 1;
+    line-height: 1.1;
     padding: 0;
   }
- */
 
   #menu>ul>#nav_staff>a:hover {
     background-color: transparent;
