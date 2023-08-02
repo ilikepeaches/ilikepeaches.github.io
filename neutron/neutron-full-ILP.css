@@ -380,6 +380,32 @@ ul.potato-menu-group.potato-menu-vertical li {
 }
 
 
+#nav_user.potato-menu-item {
+position: absolute;
+left: 207px;
+top: -6px;
+}
+
+
+#nav_user.potato-menu-item ul.potato-menu-group {
+display: block;
+visibility: visible;
+opacity: initial;
+border: none;
+background: none;
+z-index: initial;
+width: 381px;
+}
+
+#nav_user li.potato-menu-item {
+width: 115px;
+padding: 0 0 2px 0!important;
+}
+
+#nav_user.potato-menu-item ul.potato-menu-group li a {
+color: #319bc2;
+} 
+
 
 #searchbars {
 	width: 100%;
